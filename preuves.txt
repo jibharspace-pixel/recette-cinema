@@ -1,0 +1,27 @@
+HP@DESKTOP-EP8N2AU MINGW64 ~/Documents/recette-cinema
+$ node partie1.js
+11
+1500
+12
+1500
+13
+1500
+14
+1500
+15
+1500
+16
+2500
+17
+2500
+18
+2500
+19
+2500
+20
+2500
+Recette totale : 20000 FCFA
+Le nombre de billets vendus à 1500 FCFA : 5
+Le nombre de billets vendus à 2500 FCFA : 5 
+
+
