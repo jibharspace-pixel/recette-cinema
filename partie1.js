@@ -9,11 +9,11 @@ for (let age = 11; age <= 20; age = age + 1) {
 
     if (age < 16) {
         console.log(age);
-        console.log(prix1);
+        console.log(prix1, "FCFA");
         Nb1500++;
     } else {
         console.log(age);
-        console.log(prix2);
+        console.log(prix2, "FCFA");
         Nb2500++;
     }
 

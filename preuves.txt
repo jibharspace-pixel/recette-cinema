@@ -1,52 +1,53 @@
-HP@DESKTOP-EP8N2AU MINGW64 ~/Documents/recette-cinema
+ 
+HP@DESKTOP-EP8N2AU MINGW64 ~/Documents/recette-cinema (main)
 $ node partie1.js
 11
-1500
+1500 FCFA
 12
-1500
+1500 FCFA
 13
-1500
+1500 FCFA
 14
-1500
+1500 FCFA
 15
-1500
+1500 FCFA
 16
-2500
+2500 FCFA
 17
-2500
+2500 FCFA
 18
-2500
+2500 FCFA
 19
-2500
+2500 FCFA
 20
-2500
+2500 FCFA
 Recette totale : 20000 FCFA
 Le nombre de billets vendus à 1500 FCFA : 5
-Le nombre de billets vendus à 2500 FCFA : 5 
+Le nombre de billets vendus à 2500 FCFA : 5
 
 
 HP@DESKTOP-EP8N2AU MINGW64 ~/Documents/recette-cinema (main)
 $ node partie2.js
 11
-1500
+Prix : 1500 FCFA
 12
-1500
+Prix : 1500 FCFA
 13
-1500
+Prix : 1500 FCFA
 14
-1500
+Prix : 1500 FCFA
 15
-1500
+Prix : 1500 FCFA
 16
-2500
+Prix : 2500 FCFA
 17
-2500
+Prix : 2500 FCFA
 18
-2000
+Prix : 2000 FCFA
 19
-2000
+Prix : 2000 FCFA
 20
-2000
-Recette totale : 20000 FCFA
-Le nombre de billets vendus à 1500 FCFA : 5 personnes
-Le nombre de billets vendus à 2500 FCFA : 5 personnes
+Prix : 2000 FCFA
+Recette totale : 18500 FCFA
+Le nombre de billets vendus à 1500 FCFA : 5
+Le nombre de billets vendus à 2500 FCFA : 5
